@@ -31,7 +31,7 @@ This Python project automates the process of scraping rental listings from a Zil
    ```bash
    pip install selenium beautifulsoup4 python-dotenv
 
-3. **Create a Google Form with three short_answer questions. For example:
+3. **Create a Google Form with three short_answer questions. For example:**
 
    - "What's the address of the property?"
    - "What's the price per month?"
