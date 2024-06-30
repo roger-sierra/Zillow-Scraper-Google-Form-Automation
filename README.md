@@ -36,6 +36,8 @@ This Python project automates the process of scraping rental listings from a Zil
    - "What's the address of the property?"
    - "What's the price per month?"
    - "What's the link to the property?"
+  
+   ![image](https://github.com/roger-sierra/Zillow-Scraper-Google-Form-Automation/assets/51401112/8edf4440-88c2-40dd-aaa2-82ce37bcbb83)
 
 4. **Set up environment variables:**
 
