@@ -54,12 +54,11 @@ This Python project automates the process of scraping rental listings from a Zil
    python main.py
 
   The script will:
-  
-  - Open Google Chrome.
-  - Navigate to the Zillow clone website.
-  - Scrape the rental data.
-  - Automatically fill out the Google Form with the scraped data.
-  - Close the broswer when finished.
+     - Open Google Chrome.
+     - Navigate to the Zillow clone website.
+     - Scrape the rental data.
+     - Automatically fill out the Google Form with the scraped data.
+     - Close the broswer when finished.
 
 2. **Download a Google spreadsheet with all data:**
 
