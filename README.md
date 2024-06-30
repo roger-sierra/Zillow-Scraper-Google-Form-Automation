@@ -31,7 +31,13 @@ This Python project automates the process of scraping rental listings from a Zil
    ```bash
    pip install selenium beautifulsoup4 python-dotenv
 
-3. **Set up environment variables:**
+3. **Create a Google Form with three short_answer questions. For example:
+
+   - "What's the address of the property?"
+   - "What's the price per month?"
+   - "What's the link to the property?"
+
+4. **Set up environment variables:**
 
    Create a .env file in the project root directory and add your Google Form URL:
 
@@ -51,3 +57,14 @@ This Python project automates the process of scraping rental listings from a Zil
   - Navigate to the Zillow clone website.
   - Scrape the rental data.
   - Automatically fill out the Google Form with the scraped data.
+  - Close the broswer when finished.
+
+2. **Download a Google spreadsheet with all data:**
+
+   - Navigate to the Google form from the account which created it.
+   - Click on the "Responses" tab.
+   - Click on the "View in Sheets" button.
+
+  ![image](https://github.com/roger-sierra/Zillow-Scraper-Google-Form-Automation/assets/51401112/f8f5d4f2-d486-46bd-a365-c8aeda58af2d)
+  
+  ![image](https://github.com/roger-sierra/Zillow-Scraper-Google-Form-Automation/assets/51401112/e6f9065a-9007-44c8-b7e0-44dcdee27717)
